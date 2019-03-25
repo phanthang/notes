@@ -4,7 +4,7 @@
 
 ## Settings
 1. [Add Control Settings](https://github.com/phanthang/notes/wiki/Add-Control-Settings)
-2.
+2. [Suggestion on Settings](https://github.com/phanthang/notes/wiki/Suggestion-on-Settings)
 
 ## Call
 1. [Dark Theme android P](https://github.com/phanthang/notes/wiki/Dark-Theme-android-P)
