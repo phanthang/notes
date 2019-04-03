@@ -13,3 +13,7 @@
 
 ## Call
 1. [Dark Theme android P](https://github.com/phanthang/notes/wiki/Dark-Theme-android-P)
+
+## SystemUi
+1. [Change Icons](https://github.com/phanthang/notes/wiki/Lock-Screen-change-Icon)
+2. [Keep text guide](https://github.com/phanthang/notes/wiki/Keep-text-guide-unlock)
