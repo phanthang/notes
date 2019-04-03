@@ -6,6 +6,7 @@
 ## Settings
 1. [Add Control Settings](https://github.com/phanthang/notes/wiki/Add-Control-Settings)
 2. [Suggestion on Settings](https://github.com/phanthang/notes/wiki/Suggestion-on-Settings)
+3. [Divider on Main Settings](https://github.com/phanthang/notes/wiki/Divider-on-Main-Settings)
 
 ## Settings Provider
 1. [Add A Value into Settings Provider](https://github.com/phanthang/notes/wiki/Add-value-Settings-Provider)
