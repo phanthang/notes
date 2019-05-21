@@ -2,6 +2,7 @@
 1. [Adb common](https://github.com/phanthang/notes/wiki/Adb-common)
 2. [AIDL](https://github.com/phanthang/notes/wiki/AIDL)
 3. [Git common](https://github.com/phanthang/notes/wiki/Git-notes)
+4. [AOSP Setup](https://github.com/phanthang/notes/wiki/AOSP-Setup)
 
 ## Settings
 1. [Add Control Settings](https://github.com/phanthang/notes/wiki/Add-Control-Settings)
